@@ -60,11 +60,11 @@ body {
     justify-content: center;
 }
 .btn {
-    height: 82px;
-    width: 400px;
-    border-radius: 25px;
+    height: 100px;
+    width: 500px;
+    border-radius: 42px;
     display: flex;
-    font-size: 2rem;
+    font-size: 3rem;
     justify-content: center;
     text-decoration: none;
     align-items: center;
